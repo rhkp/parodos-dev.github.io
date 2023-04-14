@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main # or master before October 2020
+      - Test
 
 jobs:
   github-pages:
